@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "we9LraiMf7O8rk3nDCSz/kxkVUYdKAQNpp2f7CwUvpGybsC+wgVa9P0HiDkbsiF6UGpMGmQiM7/1BD4Kz13OkQ==",
+  "success": true,
+  "projectFilePath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kristoffer/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

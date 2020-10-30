@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vtwshq1Kb1mQKoVw/WapUIQ9d5Kv81PMt+DR0vvWJzYS4VRKIEsGcujGZJDJzEApqNVMs6kLvP/O2iX0HMWh5w==",
+  "success": true,
+  "projectFilePath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.iOS/WeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kristoffer/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
