@@ -1,22 +1,27 @@
 ﻿<Properties StartupConfiguration="{8B869EF7-BE40-46D2-9413-F36344F063F4}|Default">
   <MonoDevelop.Ide.ItemProperties.WeatherApp.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Weather/WeatherApp/RestService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weather/WeatherApp/Database/ListItemDatabase.cs">
     <Files>
       <File FileName="Weather/WeatherApp/Constants.cs" Line="1" Column="1" />
-      <File FileName="Weather/WeatherApp/App.xaml.cs" Line="1" Column="1" />
-      <File FileName="Weather/WeatherApp/LongToDateTimeConverter.cs" Line="1" Column="1" />
-      <File FileName="Weather/WeatherApp/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Weather/WeatherApp/WeatherData.cs" Line="1" Column="1" />
-      <File FileName="Weather/WeatherApp/RestService.cs" Line="1" Column="1" />
+      <File FileName="Weather/WeatherApp/LongToDateTimeConverter.cs" />
+      <File FileName="Weather/WeatherApp/MainPage.xaml.cs" />
+      <File FileName="Weather/WeatherApp/WeatherData.cs" />
+      <File FileName="Weather/WeatherApp/RestService.cs" />
+      <File FileName="Weather/WeatherApp/ViewModel/WeatherViewModel.cs" />
+      <File FileName="Weather/WeatherApp/Database/Constant.cs" Line="19" Column="10" />
+      <File FileName="Weather/WeatherApp/Database/TaskExtension.cs" />
+      <File FileName="Weather/WeatherApp/Database/ListItemDatabase.cs" Line="70" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WeatherApp" expanded="True">
             <Node name="WeatherApp" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="RestService.cs" selected="True" />
+              <Node name="Database" expanded="True">
+                <Node name="ListItemDatabase.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
             </Node>
           </Node>
         </State>

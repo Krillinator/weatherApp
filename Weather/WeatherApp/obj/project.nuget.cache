@@ -1,12 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "we9LraiMf7O8rk3nDCSz/kxkVUYdKAQNpp2f7CwUvpGybsC+wgVa9P0HiDkbsiF6UGpMGmQiM7/1BD4Kz13OkQ==",
+  "dgSpecHash": "vVijQIXhXHMii5OJ+hQ4iOLVptghZRp3VLGVz9qb99CVguAVDgFGHQf2NZfokBTNQdfF7157oNxn3DAXdc+TqQ==",
   "success": true,
   "projectFilePath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj",
   "expectedPackageFiles": [
     "/Users/kristoffer/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/kristoffer/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/kristoffer/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.3/sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.3/sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/Users/kristoffer/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/kristoffer/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
   ],
   "logs": []

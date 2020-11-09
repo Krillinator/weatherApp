@@ -12,5 +12,12 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1269" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.7.335" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\" />
+    <Folder Include="ViewModel\" />
+    <Folder Include="Model\" />
+    <Folder Include="Database\" />
   </ItemGroup>
 </Project>
