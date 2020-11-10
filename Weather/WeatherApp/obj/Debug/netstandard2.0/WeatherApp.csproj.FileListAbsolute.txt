@@ -3,3 +3,15 @@
 /Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfoInputs.cache
 /Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfo.cs
 /Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.deps.json
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.dll
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.pdb
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.csprojAssemblyReference.cache
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfo.cs
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.dll
+/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.pdb

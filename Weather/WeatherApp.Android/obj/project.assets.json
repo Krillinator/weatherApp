@@ -2144,20 +2144,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/samiehsadeghi/.nuget/packages/": {}
+    "/Users/kristoffer/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+      "projectUniqueName": "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
       "projectName": "WeatherApp.Android",
-      "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
-      "packagesPath": "/Users/samiehsadeghi/.nuget/packages/",
-      "outputPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/obj/",
+      "projectPath": "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+      "packagesPath": "/Users/kristoffer/.nuget/packages/",
+      "outputPath": "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/samiehsadeghi/.config/NuGet/NuGet.Config"
+        "/Users/kristoffer/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2168,8 +2168,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj": {
-              "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj"
+            "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/WeatherApp.csproj": {
+              "projectPath": "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/WeatherApp.csproj"
             }
           }
         }

@@ -907,19 +907,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/samiehsadeghi/.nuget/packages/": {}
+    "/Users/kristoffer/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj",
+      "projectUniqueName": "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/WeatherApp.csproj",
       "projectName": "WeatherApp",
-      "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj",
-      "packagesPath": "/Users/samiehsadeghi/.nuget/packages/",
-      "outputPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/",
+      "projectPath": "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/WeatherApp.csproj",
+      "packagesPath": "/Users/kristoffer/.nuget/packages/",
+      "outputPath": "/Users/kristoffer/Downloads/weatherApp/Weather/WeatherApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/samiehsadeghi/.config/NuGet/NuGet.Config"
+        "/Users/kristoffer/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

@@ -1,6 +1,6 @@
 ﻿using SQLite;
 
-namespace ListItem
+namespace List
 {
     public class ListItem
     {
