@@ -7,10 +7,11 @@
       <File FileName="Weather/WeatherApp/MainPage.xaml.cs" />
       <File FileName="Weather/WeatherApp/WeatherData.cs" />
       <File FileName="Weather/WeatherApp/RestService.cs" />
-      <File FileName="Weather/WeatherApp/ViewModel/WeatherViewModel.cs" />
-      <File FileName="Weather/WeatherApp/Database/Constant.cs" Line="19" Column="10" />
+      <File FileName="Weather/WeatherApp/ViewModel/WeatherViewModel.cs" Line="13" Column="1" />
+      <File FileName="Weather/WeatherApp/Database/Constant.cs" />
       <File FileName="Weather/WeatherApp/Database/TaskExtension.cs" />
-      <File FileName="Weather/WeatherApp/Database/ListItemDatabase.cs" Line="70" Column="1" />
+      <File FileName="Weather/WeatherApp/Database/ListItemDatabase.cs" Line="6" Column="1" />
+      <File FileName="Weather/WeatherApp/Database/ListItem.cs" Line="5" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

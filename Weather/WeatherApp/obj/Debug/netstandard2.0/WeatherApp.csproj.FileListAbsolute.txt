@@ -1,0 +1,5 @@
+/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfo.cs
+/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.csproj.CoreCompileInputs.cache

@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj": {}
+    "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj": {}
   },
   "projects": {
-    "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj": {
+    "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+        "projectUniqueName": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
         "projectName": "WeatherApp.Android",
-        "projectPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
-        "packagesPath": "/Users/kristoffer/.nuget/packages/",
-        "outputPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/obj/",
+        "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+        "packagesPath": "/Users/samiehsadeghi/.nuget/packages/",
+        "outputPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/kristoffer/.config/NuGet/NuGet.Config"
+          "/Users/samiehsadeghi/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj": {
-                "projectPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj"
+              "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj": {
+                "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj"
               }
             }
           }
@@ -48,17 +48,17 @@
         }
       }
     },
-    "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj": {
+    "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj",
+        "projectUniqueName": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj",
-        "packagesPath": "/Users/kristoffer/.nuget/packages/",
-        "outputPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/obj/",
+        "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj",
+        "packagesPath": "/Users/samiehsadeghi/.nuget/packages/",
+        "outputPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kristoffer/.config/NuGet/NuGet.Config"
+          "/Users/samiehsadeghi/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -88,11 +88,11 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "[12.0.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1269, )"
+              "version": "[4.8.0.1560, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",

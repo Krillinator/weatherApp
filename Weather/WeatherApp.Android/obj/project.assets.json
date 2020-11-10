@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v9.0": {
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -877,8 +877,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Newtonsoft.Json": "11.0.2",
-          "Xamarin.Forms": "4.8.0.1269",
+          "Newtonsoft.Json": "12.0.3",
+          "Xamarin.Forms": "4.8.0.1560",
           "sqlite-net-pcl": "1.7.335"
         },
         "compile": {
@@ -891,10 +891,10 @@
     }
   },
   "libraries": {
-    "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.2",
+      "path": "newtonsoft.json/12.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -917,8 +917,9 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.2.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "sqlite-net-pcl/1.7.335": {
@@ -2143,20 +2144,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/kristoffer/.nuget/packages/": {}
+    "/Users/samiehsadeghi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+      "projectUniqueName": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
       "projectName": "WeatherApp.Android",
-      "projectPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
-      "packagesPath": "/Users/kristoffer/.nuget/packages/",
-      "outputPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.Android/obj/",
+      "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+      "packagesPath": "/Users/samiehsadeghi/.nuget/packages/",
+      "outputPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/kristoffer/.config/NuGet/NuGet.Config"
+        "/Users/samiehsadeghi/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2167,8 +2168,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj": {
-              "projectPath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp/WeatherApp.csproj"
+            "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj": {
+              "projectPath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp/WeatherApp.csproj"
             }
           }
         }
@@ -2188,5 +2189,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1560 to 4.8.0.1269. Reference the package directly from the project to select a different version. \n WeatherApp.Android -> WeatherApp -> Xamarin.Forms (>= 4.8.0.1560) \n WeatherApp.Android -> Xamarin.Forms (>= 4.8.0.1269)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
 }

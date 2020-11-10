@@ -1,18 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "6LcT0Zy6XmTelbiD1Kz6HAOTj10Uebtgft6gXTZlda9GpYZ6vTuYK7KxBWKLAUvhfZ2aM7eazNg1pLpkWqdi0g==",
+  "dgSpecHash": "pLiEP6YkErVFoB7qM/q6FPdCM+YhFQM4YHdtMaFieaEZ/pFjK9Aksm7npQuPLQzr3oA5CEy7GZMhRNaHK/78PQ==",
   "success": true,
-  "projectFilePath": "/Users/kristoffer/Downloads/WeatherApp/Weather/WeatherApp.iOS/WeatherApp.iOS.csproj",
+  "projectFilePath": "/Users/samiehsadeghi/Documents/xamarin/weatherApp/Weather/WeatherApp.iOS/WeatherApp.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/kristoffer/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "/Users/kristoffer/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+    "/Users/samiehsadeghi/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/samiehsadeghi/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1560 to 4.8.0.1269. Reference the package directly from the project to select a different version. \n WeatherApp.iOS -> WeatherApp -> Xamarin.Forms (>= 4.8.0.1560) \n WeatherApp.iOS -> Xamarin.Forms (>= 4.8.0.1269)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }
